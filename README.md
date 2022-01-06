@@ -3,9 +3,9 @@ HTML+CSS Tutorial
 
 ### Who
 
-I'm Cassidy. I'm a engineer and I've been teaching myself HTML, CSS, and other web development and scripting for over 15 years.
+I'm shubham. I'm a engineer and I've been teaching myself HTML, CSS, and other web development and scripting for over 15 years.
 And I want to teach you now.
-Because you're good looking.
+Because you're good learning.
 And because it's useful.
 
 ### What
